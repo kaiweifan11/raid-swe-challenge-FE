@@ -1,0 +1,9 @@
+.submit {
+    color: #FFFFFF;
+    background: #08aabb;
+}
+
+.submit:hover {
+    color: #FFFFFF;
+    background: #7ed6df !important;
+}
