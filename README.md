@@ -8,7 +8,7 @@ $ npm start
 
 FE is hosted on https://guarded-sands-13927-9346274ede60.herokuapp.com/
 
-For local, it is on port 5000 eg. localhost:3000
+For local, it is on port 3000 eg. localhost:3000
 proxy is setup to point to local BE at localhost:5000
 
 Libraries used:
