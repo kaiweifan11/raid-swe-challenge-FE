@@ -3,7 +3,9 @@ import Home from './container/Home';
 import AdminPage from './container/AdminPage';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
-const BASE_URL = "https://peaceful-sands-09691-a77d7aa8f6a0.herokuapp.com";
+// app hosted on heroku not working. Please use localhost setup. Already added proxy to localhost:5000
+//const BASE_URL = "https://peaceful-sands-09691-a77d7aa8f6a0.herokuapp.com";
+const BASE_URL = "";
 
 const Router = () =>{
     return( 
