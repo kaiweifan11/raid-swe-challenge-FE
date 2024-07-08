@@ -5,7 +5,8 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 // app hosted on heroku not working. Please use localhost setup. Already added proxy to localhost:5000
 //const BASE_URL = "https://peaceful-sands-09691-a77d7aa8f6a0.herokuapp.com";
-const BASE_URL = "";
+// app hosted on render 
+const BASE_URL = "https://raid-swe-challenge-be.onrender.com";
 
 const Router = () =>{
     return( 
